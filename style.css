@@ -1,3 +1,52 @@
+#site-branding {
+	font-family: Arial, Helvetica, sans-serif;
+	margin: 0px auto;
+	}
+
+#site-title {
+	text-align: center;
+	margin-top: 5%;
+  	overflow: hidden;
+  	font-size: 25px;
+}
+
+/* Style the links inside the navigation bar */
+#site-title a {
+	display: block;
+	text-decoration: none;
+	color: black;
+	text-decoration: underline;
+}
+
+/* Change the color of links on hover */
+#site-title a:hover {
+  /* background-color: #ddd;*/
+}
+
+/* Add an active class to highlight the current page */
+#site-title a.active {
+	background-color: #04AA6D;
+}
+
+#site-title p {
+	display: block;
+	text-decoration: none;
+	color: black;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+#site-desc {
+	text-align: center;
+}
+
+#homepage {
+	overflow: hidden;
+    width: 715px;
+    margin: 0px auto;
+   	font-family: Arial, Helvetica, sans-serif;
+}
+
 #essay
 {
 	overflow: hidden;
