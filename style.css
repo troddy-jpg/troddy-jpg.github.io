@@ -71,6 +71,10 @@ img{
 	text-align: left;
 }
 
+#homepage img{
+	margin-top: 15px;
+}
+
 #homepage .subpage-link{
 	text-align: center;
 }
