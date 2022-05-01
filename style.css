@@ -1,3 +1,15 @@
+html {
+	/* Hide scrollbar for IE, Edge and Firefox */
+   	-ms-overflow-style: none;  /* IE and Edge */
+  	scrollbar-width: none;  /* Firefox */
+}
+
+img{
+	border-radius:8px;
+	max-width:100%;
+	height:auto;
+}
+
 #site-branding {
 	font-family: Arial, Helvetica, sans-serif;
 	margin: 0px auto;
@@ -13,9 +25,9 @@
 /* Style the links inside the navigation bar */
 #site-title a {
 	display: block;
-	text-decoration: none;
-	color: black;
 	text-decoration: underline;
+	color: black;
+	
 }
 
 /* Change the color of links on hover */
@@ -45,21 +57,38 @@
     width: 715px;
     margin: 0px auto;
    	font-family: Arial, Helvetica, sans-serif;
+   	text-align: center;
+}
+
+#homepage a{
+	display: block;
+	text-decoration: underline;
+	color: black;
+	font-size: 25px
+}
+
+#homepage h1{
+	text-align: left;
+}
+
+#homepage .subpage-link{
+	text-align: center;
 }
 
 #essay
 {
-	overflow: hidden;
     width: 715px;
     margin: 0px auto;
    	font-family: Arial, Helvetica, sans-serif;
 }
+
 
 #essay .name{
 	text-align: center;
 	margin-top: 50px;
 	margin-bottom: 50px
 }
+
 
 #essay .subheading {
 }
