@@ -5,26 +5,13 @@
    	font-family: Arial, Helvetica, sans-serif;
 }
 
-#essay .name{
-	text-align: center;
-	margin-top: 50px;
-	margin-bottom: 50px
-}
-
-
-#essay .subheading {
-}
-
-#essay .intro {
-	text-indent: 50px;
-}
-
-#essay .body-paragraph {
-	text-indent: 50px;
-}
-
 #essay-title {
 	text-align: center;
 	margin: 0px auto;
 	margin-bottom: 5%;
+}
+
+
+#essay .intro {
+	text-indent: 50px;
 }
