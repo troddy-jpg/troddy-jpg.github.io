@@ -16,3 +16,17 @@
 #essay .intro {
 	text-indent: 50px;
 }
+
+#previous-next{
+	display: flex;
+  	justify-content: space-between;
+}
+
+#essay a{
+	text-decoration: none;
+	color: black;
+}
+
+#essay a:hover {
+	text-decoration: underline;
+}

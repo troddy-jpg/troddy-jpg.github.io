@@ -12,6 +12,11 @@ img{
 	background-color: black;
 }
 
+hr {
+	border-bottom: 1px solid black;
+	width:97%;
+	}
+
 #site-branding {
 	font-family: Arial, Helvetica, sans-serif;
 	margin: 0px auto;
@@ -53,8 +58,7 @@ img{
 
 #homepage {
 	margin-top: 0px;
-	overflow: hidden;
-    width: 715px;
+    max-width: 715px;
     margin: 0px auto;
    	font-family: Arial, Helvetica, sans-serif;
    	text-align: center;
