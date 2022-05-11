@@ -20,9 +20,9 @@ Place to store and display all my past &amp; previous film writing
 ### Adding content
 
 - [ ]  Transcribe & upload:
-    - [ ]  [Taking Depravity to it’s Extremes](https://docs.google.com/document/d/1NbjEC1vKkgZRnEwNSpHYHBORg70C9nNA/edit)
-    - [ ]  [In Defense of A Clockwork Orange](https://docs.google.com/document/d/1K7YnpWFUd70ESn32tVsZ-FV6y_HcnYZ_/edit)
-    - [ ]  [The Unbearable Weight of Massive Talent](https://www.notion.so/The-Unbearable-Weight-of-Massive-Talent-8c54c0aa9b0f49adb272c22f6c4a8890)
+    - [ ]  [Taking Depravity to it’s Extremes]
+    - [ ]  [In Defense of A Clockwork Orange]
+    - [ ]  [The Unbearable Weight of Massive Talent]
 - [ ]  Page for my juvenile films
 
 ### Essays
