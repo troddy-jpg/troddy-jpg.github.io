@@ -22,7 +22,6 @@ Place to store and display all my past &amp; previous film writing
 - [ ]  Transcribe & upload:
     - [ ]  [Taking Depravity to it’s Extremes]
     - [ ]  [In Defense of A Clockwork Orange]
-    - [ ]  [The Unbearable Weight of Massive Talent]
 - [ ]  Page for my juvenile films
 
 ### Essays
