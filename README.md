@@ -28,6 +28,6 @@ Place to store and display all my past &amp; previous film writing
 
 - [ ]  Need to make note of which essays to edit / make brief summary of my thoughts about what to edit in order to make them better
 - [ ]  keep in back of mind but work on other stuff - how to best display the names / info of the essays on the homepage
-- [ ]  Put a star on essays that are good
+- [ ]  Put a star on essays that are notably less bad than the others
 
 ---
