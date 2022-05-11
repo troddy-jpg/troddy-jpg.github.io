@@ -15,10 +15,6 @@ Place to store and display all my past &amp; previous film writing
     - The content has changed from the current list of Essays with links to each individual essay to a yet-undesigned page containing all my notes I’ve ever taken on movies, even just brief / uneducated ones.
     - Can add in more pages
     - Other page idea: all the screenshots I grab, what film they are from, who shot them etc. cool film photography gallery of stills from films I’ve captured.
-- [ ]  Recolor
-    - [ ]  main page
-    - [ ]  unbearable-weight
-    - [ ]  duality-of-man
 
 ### Adding content
 
