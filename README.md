@@ -5,8 +5,7 @@ Place to store and display all my past &amp; previous film writing
 ### General
 
 - [ ]  Add date to essays
-- [ ]  Button in top right which makes gallery view
-- [ ]  back to top of page button
+- [ ]  top of page button
 - [ ]  footer with twitter, email, newsletter sign up
     - [ ]  make an email newsletter
 - Taskbar?
