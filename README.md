@@ -31,3 +31,4 @@ Place to store and display all my past &amp; previous film writing
 - [ ]  Put a star on essays that are notably less bad than the others
 
 ---
+$x = a\in\mathbb{Z}$
